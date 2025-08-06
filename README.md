@@ -1,1 +1,1 @@
-# alx-project-0x05setup
+# alx-project-0x05-setup
